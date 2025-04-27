@@ -65,8 +65,6 @@ python .\main.py `
   --extension mkv
 ```
 
-```
-
 ---
 
 ## How It Works
